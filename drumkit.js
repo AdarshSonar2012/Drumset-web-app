@@ -11,7 +11,7 @@ document.querySelectorAll(".button")[j]
 	animation(buttonStyle);
 });
 }
-
+#adasd
 document.addEventListener("keypress", function(event) {
 sound(event.key);
 animation(event.key);
